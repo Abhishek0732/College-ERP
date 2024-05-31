@@ -60,37 +60,36 @@ This will delete all present attendance data and create new attendance objects f
 ## Screenshots
 
 ### Teacher Page
+![alt text](https://imgur.com/Yb59eqb.png)
 
-![alt text](https://imgur.com/pMAoEbG.png)
+![alt text](https://imgur.com/wUAvSPM.png)
 
-![alt text](https://imgur.com/ZiQ3RRA.png)
+![alt text](https://imgur.com/avojpVG.png)
 
-![alt text](https://imgur.com/i025CJW.png)
+![alt text](https://imgur.com/dOqqofE.png)
 
-![alt text](https://imgur.com/HQlLYmC.png)
+![alt text](https://imgur.com/KQclzmt.png)
 
-![alt text](https://imgur.com/j6RyBmU.png)
+![alt text](https://imgur.com/f2mxc3A.png)
 
-![alt text](https://imgur.com/xIKEMvQ.png)
-
-![alt text](https://imgur.com/4Rl7Fpv.png)
+![alt text](https://imgur.com/pfexA84.png)
 
 ### Student Page
 
-![alt text](https://imgur.com/isL9cjz.png)
+![alt text](https://imgur.com/UoGquMh.png)
 
-![alt text](https://imgur.com/5pzl7m3.png)
+![alt text](https://imgur.com/dsOdi6T.png)
 
-![alt text](https://imgur.com/7zWhHZx.png)
+![alt text](https://imgur.com/ZawOpO1.png)
 
-![alt text](https://imgur.com/fu7gxk8.png)
+![alt text](https://imgur.com/zVK2va0.png)
 
-![alt text](https://imgur.com/NZqU268.png)
+![alt text](https://imgur.com/bDX7EVd.png)
 
 ### Admin Page
 
-![alt text](https://imgur.com/sDvDc9N.png)
+![alt text](https://imgur.com/0pPJ7s9.png)
 
-![alt text](https://imgur.com/tMKWx6f.png)
+![alt text](https://imgur.com/lansJqk.png)
 
-![alt text](https://imgur.com/PvCsNeB.png)
+![alt text](https://imgur.com/Tcg3ura.png)
